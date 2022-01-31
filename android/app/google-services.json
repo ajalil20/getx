@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868660669968",
+    "project_id": "pawndr-e9c9b",
+    "storage_bucket": "pawndr-e9c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868660669968:android:a59029f311ea88e25fe495",
+        "android_client_info": {
+          "package_name": "com.innovative.pawndr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868660669968-os39gusg5kbct6m22fs0no4h7alt3f9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdoPX-DZH1iR9B8ZSPoOtP15F-weRW7gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868660669968-os39gusg5kbct6m22fs0no4h7alt3f9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
